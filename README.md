@@ -26,6 +26,8 @@ Rtmidi @ http://www.music.mcgill.ca/~gary/rtmidi/index.html
 Midi controller
    - M-Audio USB (for output to MIDI devices)
    - Virtual Midi port if supported by target DAW 
+
+#### Additional Notes
 Other:
    - 120 bpm default 
    - Conversion chart: https://msu.edu/course/asc/232/song_project/dectalk_pages/note_to_%20ms.html
