@@ -9,17 +9,17 @@ rtmidi version = 1.1.0
 
 Cards! to Midi!:
 
-A deck of cards has 52! possible permutations, as to say there are
+A deck of cards has 52! possible permutations - there are
 52 * 51 * 50 ... * 2 * 1 possible orders the deck can have.
 
-About 8.1 x 10^67 possible configurations. 
+52! = 8.1 x 10^67 possible configurations. 
 
-Which is more than the current estimated age of the universe 
-thought to be around 4.42 x 10^17!
+The current estimated age of the universe 
+is currently around 4.42 x 10^17, much less than the
+possible ordering to a shuffled deck of cards.
 
-So how cool would it be to have each unique shuffled deck play it's own 
-unique melody...blasting out something like 8 Septensexagintillion 
-possible combinations?
+Leaving a possible Eight-Septensexagintillion possible
+combinations of the generated melody.
 
 Requirements:
 - Rtmidi @ http://www.music.mcgill.ca/~gary/rtmidi/index.html
